@@ -1,0 +1,60 @@
+h2{
+
+	color:;
+	font-family:serif;
+	margin-bottom: 30px;
+}
+h1{
+	color:black;
+	font-family: sans-serif;
+	font-weight:normal ;
+	letter-spacing:1px ;
+}
+#logo{
+	border-radius: 50%;
+}
+
+body{
+	background:white;
+}
+p{
+	font-family: helvetica;
+	color: slategrey;
+}
+
+
+div{
+    background:ghostwhite;
+    padding: 120px;
+    margin: 100px 220px;
+    border-radius: 20px;
+    box-shadow: 8px 8px 3px darkgrey ;
+;   text-align: center;
+        
+
+}
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+
+
+
+.p-class {
+
+	font-family:cursive;
+}
+ 
+<a href="https://www.instagram.com/timsko__/"target="_blank"><i class="fa-brands fa-square-instagram"></i></a>
+   	  	<a href="https://twitter.com/SkilldoTp"target="_blank"><i class="fa-brands fa-square-x-twitter"></i></a>	
+  	  	<a href="https://www.facebook.com/timothe.peyrolle.3/"target="_blank"><i class="fa-brands fa-square-facebook"></i></a> {
+
+  	  		font-size:200px;
+  	  	}
